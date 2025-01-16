@@ -154,9 +154,8 @@ npx hardhat deploy --network mainnet
 
 ## 👥 Community & Governance
 
-- [Discord Community](https://discord.gg/atlasoracle)
-- [Governance Forum](https://forum.atlasoracle.com)
-- [Twitter](https://twitter.com/AtlasOracle)
+- [Telegram Community](https://t.me/atlasoracle)
+- [Twitter](https://x.com/Atlas_Oracle)
 - [Blog](https://blog.atlasoracle.com)
 
 ### Governance Process
