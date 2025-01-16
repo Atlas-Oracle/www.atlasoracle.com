@@ -184,6 +184,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Built with ❤️ by the AtlasOracle Team
 
-[Website](https://atlasoracle.com) • [Documentation](https://docs.atlasoracle.com) • [Twitter](https://twitter.com/AtlasOracle)
+[Website](https://atlasoracle.com) • [Documentation](https://docs.atlasoracle.com) • [Twitter](https://twitter.com/Atlas_Oracle)
 
 </div>
