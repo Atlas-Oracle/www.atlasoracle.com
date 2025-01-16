@@ -6,11 +6,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AtlasOracle?style=social)](https://twitter.com/AtlasOracle)
-[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/atlasoracle)
 
 > Collective Intelligence Unleashed: Where Ancient Wisdom Meets Neural Networks
 
-[Demo](https://demo.atlasoracle.com) • [Documentation](https://docs.atlasoracle.com) • [Community](https://discord.gg/atlasoracle)
+[Demo](https://atlasoracle.com) • [Documentation](https://docs.atlasoracle.com) • [Community](https://t.me/atlasoracle)
 
 </div>
 
