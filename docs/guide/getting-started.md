@@ -231,7 +231,7 @@ atlas.monitor.start();
 3. [Temporal Framework Integration](/guide/temporal-framework)
 
 ### Community Resources
-- [Discord Community](https://discord.gg/atlas-oracle)
+- [Telegram Community](https://t.me/atlasoracle)
 - [GitHub Repository](https://github.com/atlas-oracle)
 - [Documentation](/docs)
 - [API Reference](/api) 

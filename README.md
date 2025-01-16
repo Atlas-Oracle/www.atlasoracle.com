@@ -93,20 +93,15 @@ graph TD
 
 ## 💎 Tokenomics
 
-- **Token Name**: ATLAS
-- **Total Supply**: 100,000,000 ATLAS
-- **Distribution**:
-  - 30% Community Rewards
-  - 25% Development Fund
-  - 20% Team & Advisors (3-year vesting)
-  - 15% Liquidity Pool
-  - 10% Strategic Partnerships
+- **Token Name**: AORA
+- **Total Supply**: 1,000,000,000 AORA
+- **Distribution**: all fair launch via Pump.fun https://pump.fun/coin/DYDxokXaoEFakMWjAYXdAJNKHqKC6W73fZWdcfg5pump
 
 ## 🛠 Technical Stack
 
 - **Framework**: [Next.js](https://nextjs.org)
-- **Blockchain**: Ethereum, Solana, Polkadot
-- **Smart Contracts**: Solidity, Rust
+- **Blockchain**: Solana
+- **Smart Contracts**: Rust
 - **Oracle Network**: Custom implementation
 - **Styling**: Modern UI with cyber-pastel gradients and neo-brutalist elements
 - **Typography**: 
